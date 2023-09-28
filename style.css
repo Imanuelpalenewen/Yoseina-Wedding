@@ -550,4 +550,8 @@ footer a:hover {
       top: 36px;
    }
 
+   body {
+      overflow-x: hidden;
+   }
+
 }
